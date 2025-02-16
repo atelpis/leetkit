@@ -1,3 +1,3 @@
-module github.com/alex-telpis/leetkit
+module github.com/atelpis/leetkit
 
 go 1.18

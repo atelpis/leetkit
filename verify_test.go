@@ -3,7 +3,7 @@ package leetkit
 import (
 	"testing"
 
-	"github.com/alex-telpis/leetkit/internal/testutil"
+	"github.com/atelpis/leetkit/internal/testutil"
 )
 
 func TestVerify(t *testing.T) {
