@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/alex-telpis/leetkit/internal/testutil"
+	"github.com/atelpis/leetkit/internal/testutil"
 )
 
 func TestParse(t *testing.T) {

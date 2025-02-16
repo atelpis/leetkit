@@ -1,4 +1,4 @@
-# LeetKit for Go [![Go Reference](https://pkg.go.dev/badge/github.com/alex-telpis/leetkit.svg)](https://pkg.go.dev/github.com/alex-telpis/leetkit) [![Go Report Card](https://goreportcard.com/badge/github.com/alex-telpis/leetkit)](https://goreportcard.com/report/github.com/alex-telpis/leetkit)
+# LeetKit for Go [![Go Reference](https://pkg.go.dev/badge/github.com/atelpis/leetkit.svg)](https://pkg.go.dev/github.com/atelpis/leetkit) [![Go Report Card](https://goreportcard.com/badge/github.com/atelpis/leetkit)](https://goreportcard.com/report/github.com/atelpis/leetkit)
 
 So, you've decided to take the **Go**-ing-against-the-grain route on LeetCode?
 Well, LeetKit is here to make your life a little less painful.
@@ -9,7 +9,7 @@ and functions for parsing example inputs.
 ## Installation
 
 ```bash
-go get -u github.com/alex-telpis/leetkit
+go get -u github.com/atelpis/leetkit
 ```
 
 ## Basic Usage
@@ -25,7 +25,7 @@ Example:
 // https://leetcode.com/problems/linked-list-in-binary-tree
 package main
 
-import "github.com/alex-telpis/leetkit"
+import "github.com/atelpis/leetkit"
 
 
 // Define local type aliases for TreeNode and ListNode to match LeetCode's signature.
@@ -64,7 +64,7 @@ package main
 import (
     "slices"
 
-    "github.com/alex-telpis/leetkit"
+    "github.com/atelpis/leetkit"
 )
 
 func main() {
@@ -141,7 +141,7 @@ package main
 import (
     "container/heap"
 
-    "github.com/alex-telpis/leetkit"
+    "github.com/atelpis/leetkit"
 )
 
 func main() {
